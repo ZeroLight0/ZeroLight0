@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is George and I'm a Fullstack developer, from the planet Earth</p>
+<p align="left">My name is George and I'm a Fullstack Software developer, from the planet Earth</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Gsap and Express<br>🎯 Goals: To make the internet beautiful <br>🎲 Fun fact: Honey has more calories than sugar</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently on my app development<br>🎯 Goals: To make the internet beautiful <br>🎲 Fun fact: Honey has more calories than sugar</p>
 
 ###
 
