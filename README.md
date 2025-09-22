@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently on my app development<br>🎯 Goals: To make the internet beautiful <br>🎲 Fun fact: Honey has more calories than sugar</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently on my app development journey<br>🎯 Goals: To make the internet beautiful <br>🎲 Fun fact: Honey has more calories than sugar</p>
 
 ###
 
